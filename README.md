@@ -29,11 +29,6 @@ If you’d like to contribute to Climate Story Tellers, follow these steps:
 3. Commit your changes.
 4. Push the branch and create a pull request.
 
-## Contact
-For support or feedback, contact us at [your-email@example.com] or visit our website.
-
-## License
-This project is open-source and licensed under the MIT License.
 
 ## Website
 Visit Climate Story Tellers: [https://joamir-dev.github.io/Climate-Story-Tellers/](https://joamir-dev.github.io/Climate-Story-Tellers/)
